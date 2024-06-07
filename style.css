@@ -247,9 +247,6 @@
            }
            
     }
-    .svg-text{
-       
-    }
     .box-container2 .box2{
         background-color:white;
         margin-right:1rem;
@@ -355,9 +352,11 @@
     height:23.33vh;
     overflow:auto;
 }
-.text_box div:hover{
-    background:#ED3944;
-    color:white;
+@media screen and (min-width: 769px) {
+  .text_box div:hover {
+    background: #ed3944;
+    color: white;
+  }
 }
 
 .thrd-page h3 {
