@@ -31,6 +31,10 @@ The Digital Agency Webpage project enhances responsiveness across various device
 ##### Footer Section
 - Contains essential links and contact information.
 
+##### Deployed Project
+-[Live Demo](https://umapathi-mailapalli002.github.io/digital-agency-webpage/)
+
+
 #### Usage
 1. Clone the repository:
    ```bash
@@ -55,4 +59,4 @@ Contributions are welcome! Please follow these steps to contribute:
 6. Create a new Pull Request.
 
 #### License
-This project is licensed under the [MIT License](MIT License).
+This project is licensed under the (MIT License).
